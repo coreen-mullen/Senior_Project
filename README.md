@@ -3,6 +3,8 @@ This GitHub will hold the senior project for Iyana Jones &amp; Coreen Mullen for
 
 The Raw_Data folder holds the folders with the FARS 2022 and 2021 datasets in the original folders.
 
+The results of the html's look better by observing the results in countys with a high population such as Durham county.
+
 The accident_analysis_html_maps folder holds the output files of plot.py.
 - By double-clicking on one of these html files a interactive map of the labeled county should appear with dots representing where the accidents happened in the two different years ( without clustering ).
 
