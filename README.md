@@ -1,6 +1,8 @@
 # Senior_Project
 This GitHub will hold the senior project for Iyana Jones &amp; Coreen Mullen for Senior Seminar, Spring 2025.
 
+The senior project was to create a hot-spot analysis map of traffic accidents in North Carolina using different clustering algorithms.
+
 To access the code for this project, unzip the folder and use an IDE of your choice to begin running the code using Python.
 
 The Raw_Data folder holds the folders with the FARS 2022 and 2021 datasets in the original folders.
